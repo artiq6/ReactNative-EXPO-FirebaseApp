@@ -42,7 +42,7 @@ using mobile app copy QR code and run app
 * **Artur Haluch** 
 
 ## Screens
-![screen](./screens/sc1.PNG)
-![screen2](./screens/sc2.PNG)
-![screen2](./screens/sc3.PNG)
-![screen2](./screens/sc4.PNG)
+![screen](./screens/sc1.png)
+![screen2](./screens/sc2.png)
+![screen3](./screens/sc3.png)
+![screen4](./screens/sc4.png)
